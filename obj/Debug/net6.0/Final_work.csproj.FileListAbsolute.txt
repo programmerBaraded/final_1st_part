@@ -1,0 +1,15 @@
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.csproj.AssemblyReference.cache
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfoInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfo.cs
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.csproj.CoreCompileInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\bin\Debug\net6.0\Final_work.exe
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\bin\Debug\net6.0\Final_work.deps.json
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\bin\Debug\net6.0\Final_work.runtimeconfig.json
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\bin\Debug\net6.0\Final_work.dll
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\bin\Debug\net6.0\Final_work.pdb
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.dll
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\refint\Final_work.dll
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.pdb
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\Final_work.genruntimeconfig.cache
+G:\!!!!!ОБУЧЕНИЕ\Домашки\Final_work\obj\Debug\net6.0\ref\Final_work.dll
