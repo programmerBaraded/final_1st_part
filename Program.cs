@@ -10,3 +10,16 @@
         }
     }
 }
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+string[] name = { "Tom", "Sam", "Bob", "Mabel", "Dipper", "Stanley" };
+string[] nameTrue = new string[name.Length];
+Console.WriteLine();
+SecondArray(name, nameTrue);
+PrintArray(nameTrue);
